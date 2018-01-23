@@ -26,6 +26,9 @@ They are only assessing your ability of advising people in frequent situations a
 	
 ## 使用时态： 一般时
 
+## 理由例子
+- I just bought some for my wife, and she loves it. So I guess probabaly all women love it.
+
 ## 网摘经验
 
 第一题是给一个朋友某个建议。特别之处是你要以和朋友聊天的口吻进行叙述，刚开始上来要打招呼，不要命令别人去做什么事，要商量着给建议，最后最好再来个祝福。算是有Intro+outro吧。第一题和第七题是90s作答，其他都是60s。我这次第一题遇到的是一个朋友的妈妈要过生日了，给他一个建议，送什么礼物好

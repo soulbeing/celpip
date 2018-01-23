@@ -5,6 +5,7 @@ Being able to describe a scene to someone blind for instance in a way he or she 
 - This is a picture about...
 - There are people of all Ages...
 - I can see a ... She/he is doing...
+- There is a boy, a girl ..
 
 
 ## Example:
@@ -12,8 +13,10 @@ Being able to describe a scene to someone blind for instance in a way he or she 
 ## 需要学会的描述方式
 - 描述人
 	+ 头型
-		- 马尾辫
+		- 双马尾辫：bunches
+		- 单马尾辫：hair in a ponytail
 		- 长发
+		- 金发：blond
 	+ 衣服类型
 		- 羽绒服
 	+ 动作
